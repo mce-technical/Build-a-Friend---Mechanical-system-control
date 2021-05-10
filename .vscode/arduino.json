@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:mini",
+    "sketch": "ATmega328P-Nrf24L01+(RX)\\Src\\main\\main.ino",
+    "programmer": "arduino:avrisp"
+}
